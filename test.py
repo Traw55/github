@@ -1,1 +1,3 @@
-print("hello")
+print("hello") 
+
+x = int(input("your number: "))
